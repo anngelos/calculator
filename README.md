@@ -1,5 +1,5 @@
 ## Calculadora
-Projeto da calculadora feito no Curso de Ceact do Prof. Leonardo Moura Leitão (Cod3r).
+Projeto da calculadora feito no Curso de React do Prof. Leonardo Moura Leitão (Cod3r).
 
 ## Tecnologias Usadas
 React.js
