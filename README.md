@@ -1,15 +1,13 @@
-## Calculadora
-Projeto da calculadora feito no Curso de React do Prof. Leonardo Moura Leitão (Cod3r).
+# Calculator
 
-## Tecnologias Usadas
-React.js
-JavaScript
-HTML
-CSS
+Calculator project created in the React Course by Prof. Leonardo Moura Leitão (Cod3r).
 
-## Forma de Rodar a Aplicação
-1. Entre no diretorio do projeto através do seu terminal e digite o comando `npm install`
-2. Após ele baixar todas as dependências do projeto basta digitar `npm start`
-3. O projeto irá ser aberto no seu navegador padrão e poderá ser testado.
+## Stack
 
-Angelo Cardoso
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+## Run the project
+
+1. Navigate to the project directory using your terminal and enter the command `npm install`,
+2. After it downloads all project dependencies, simply type `npm start`,
+3. The project will be opened in your default web browser and can be tested.
